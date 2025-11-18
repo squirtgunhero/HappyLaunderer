@@ -1,0 +1,14 @@
+{
+  "name": "happy-launderer",
+  "version": "1.0.0",
+  "description": "Happy Launderer - Laundry Delivery App",
+  "scripts": {
+    "install": "cd backend && npm install",
+    "start": "cd backend && npm start",
+    "postinstall": "cd backend && npm install"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
+
